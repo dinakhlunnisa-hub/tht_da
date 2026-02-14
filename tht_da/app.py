@@ -2,10 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import plotly.express as px
 from PIL import Image
-from datetime import datetime
-from pathlib import Path
 
 
 # Konfigurasi halaman Streamlit
